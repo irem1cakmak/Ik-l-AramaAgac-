@@ -1,0 +1,41 @@
+C:\Users\Yusuf\Desktop\Final\VY\Final2\Final2\bin\Debug\Final2.exe.config
+C:\Users\Yusuf\Desktop\Final\VY\Final2\Final2\bin\Debug\Final2.exe
+C:\Users\Yusuf\Desktop\Final\VY\Final2\Final2\bin\Debug\Final2.pdb
+C:\Users\Yusuf\Desktop\Final\VY\Final2\Final2\obj\Debug\Final2.csprojAssemblyReference.cache
+C:\Users\Yusuf\Desktop\Final\VY\Final2\Final2\obj\Debug\Final2.Form1.resources
+C:\Users\Yusuf\Desktop\Final\VY\Final2\Final2\obj\Debug\Final2.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\Final\VY\Final2\Final2\obj\Debug\Final2.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\Final\VY\Final2\Final2\obj\Debug\Final2.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\Final\VY\Final2\Final2\obj\Debug\Final2.exe
+C:\Users\Yusuf\Desktop\Final\VY\Final2\Final2\obj\Debug\Final2.pdb
+C:\Users\PC\Desktop\Final2\Final2\bin\Debug\Final2.exe.config
+C:\Users\PC\Desktop\Final2\Final2\bin\Debug\Final2.exe
+C:\Users\PC\Desktop\Final2\Final2\bin\Debug\Final2.pdb
+C:\Users\PC\Desktop\Final2\Final2\obj\Debug\Final2.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Final2\Final2\obj\Debug\Final2.Form1.resources
+C:\Users\PC\Desktop\Final2\Final2\obj\Debug\Final2.Properties.Resources.resources
+C:\Users\PC\Desktop\Final2\Final2\obj\Debug\Final2.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Final2\Final2\obj\Debug\Final2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Final2\Final2\obj\Debug\Final2.exe
+C:\Users\PC\Desktop\Final2\Final2\obj\Debug\Final2.pdb
+C:\Users\ENDER\Desktop\Final2\bin\Debug\Final2.exe.config
+C:\Users\ENDER\Desktop\Final2\bin\Debug\Final2.exe
+C:\Users\ENDER\Desktop\Final2\bin\Debug\Final2.pdb
+C:\Users\ENDER\Desktop\Final2\obj\Debug\Final2.csproj.AssemblyReference.cache
+C:\Users\ENDER\Desktop\Final2\obj\Debug\Final2.Properties.Resources.resources
+C:\Users\ENDER\Desktop\Final2\obj\Debug\Final2.csproj.GenerateResource.cache
+C:\Users\ENDER\Desktop\Final2\obj\Debug\Final2.csproj.CoreCompileInputs.cache
+C:\Users\ENDER\Desktop\Final2\obj\Debug\Final2.exe
+C:\Users\ENDER\Desktop\Final2\obj\Debug\Final2.pdb
+C:\Users\ENDER\Desktop\Final2\obj\Debug\Arama_ağacı.Form1.resources
+D:\School docs\190508660- Ender Ümit Çolak\bin\Debug\Final2.exe.config
+D:\School docs\190508660- Ender Ümit Çolak\bin\Debug\Final2.exe
+D:\School docs\190508660- Ender Ümit Çolak\bin\Debug\Final2.pdb
+D:\School docs\190508660- Ender Ümit Çolak\obj\Debug\Final2.csproj.AssemblyReference.cache
+D:\School docs\190508660- Ender Ümit Çolak\obj\Debug\Final2.csproj.SuggestedBindingRedirects.cache
+D:\School docs\190508660- Ender Ümit Çolak\obj\Debug\Arama_ağacı.Form1.resources
+D:\School docs\190508660- Ender Ümit Çolak\obj\Debug\Final2.Properties.Resources.resources
+D:\School docs\190508660- Ender Ümit Çolak\obj\Debug\Final2.csproj.GenerateResource.cache
+D:\School docs\190508660- Ender Ümit Çolak\obj\Debug\Final2.csproj.CoreCompileInputs.cache
+D:\School docs\190508660- Ender Ümit Çolak\obj\Debug\Final2.exe
+D:\School docs\190508660- Ender Ümit Çolak\obj\Debug\Final2.pdb
